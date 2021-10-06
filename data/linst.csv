@@ -1,0 +1,10 @@
+organisation,language,words,documents,transition_words,transition_percentage
+EU,English,"434.92",222944,"158.31","36.40"
+EU,French,"333.08",152343,"6.1","1.83"
+EU,Spanish,"321.33",138353,0,"0.00"
+UN,English,"155.36",30859,"83.48","53.73"
+UN,French,"166.97",27725,"0.00","0.00"
+UN,Spanish,"138.93",22222,"0.00","0.00"
+WTO,English,"51.04",17911,"35.55","69.65"
+WTO,French,"55.66",17458,"0.00","0.00"
+WTO,Spanish,"57.22",17485,"0.00","0.00"
